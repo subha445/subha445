@@ -1,10 +1,22 @@
-## Hi there 👋 I'm Subha
+# Hi, I'm Subha 👋
 
-**About Me:**
-- Student learning Python and Web Development  
-- Building Student Management System project
-- coding developer
+🎓 Class 10 Student
 
-**Skills:** Python, HTML, CSS
+🎯 Goal: Become a Software Engineer and work at Google
 
-**Connect:** your_email@gmail.com
+💻 Skills:
+- Python
+- HTML
+- CSS
+- Git & GitHub
+
+🚀 Projects:
+- Personal Website
+- Weather App
+- To-Do App
+
+🌱 Currently Learning:
+- JavaScript
+- Python
+
+🔗 GitHub: https://github.com/subha445
