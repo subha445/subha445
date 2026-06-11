@@ -16,6 +16,7 @@
 - Personal Website
 - Weather App
 - To-Do App
+- Calculator App
 
 🌱 Currently Learning:
 
